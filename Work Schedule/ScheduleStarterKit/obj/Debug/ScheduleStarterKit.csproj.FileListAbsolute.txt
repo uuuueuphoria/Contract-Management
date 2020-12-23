@@ -1,0 +1,12 @@
+C:\Users\Wanlun Xue\Documents\Github\2020-sep-exercises-uuuueuphoria\src\Work Schedule\ScheduleStarterKit\bin\Debug\ScheduleStarterKit.dll.config
+C:\Users\Wanlun Xue\Documents\Github\2020-sep-exercises-uuuueuphoria\src\Work Schedule\ScheduleStarterKit\bin\Debug\ScheduleStarterKit.dll
+C:\Users\Wanlun Xue\Documents\Github\2020-sep-exercises-uuuueuphoria\src\Work Schedule\ScheduleStarterKit\bin\Debug\ScheduleStarterKit.pdb
+C:\Users\Wanlun Xue\Documents\Github\2020-sep-exercises-uuuueuphoria\src\Work Schedule\ScheduleStarterKit\bin\Debug\EntityFramework.dll
+C:\Users\Wanlun Xue\Documents\Github\2020-sep-exercises-uuuueuphoria\src\Work Schedule\ScheduleStarterKit\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wanlun Xue\Documents\Github\2020-sep-exercises-uuuueuphoria\src\Work Schedule\ScheduleStarterKit\bin\Debug\EntityFramework.xml
+C:\Users\Wanlun Xue\Documents\Github\2020-sep-exercises-uuuueuphoria\src\Work Schedule\ScheduleStarterKit\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wanlun Xue\Documents\Github\2020-sep-exercises-uuuueuphoria\src\Work Schedule\ScheduleStarterKit\obj\Debug\ScheduleStarterKit.csproj.CoreCompileInputs.cache
+C:\Users\Wanlun Xue\Documents\Github\2020-sep-exercises-uuuueuphoria\src\Work Schedule\ScheduleStarterKit\obj\Debug\ScheduleStarterKit.csproj.CopyComplete
+C:\Users\Wanlun Xue\Documents\Github\2020-sep-exercises-uuuueuphoria\src\Work Schedule\ScheduleStarterKit\obj\Debug\ScheduleStarterKit.dll
+C:\Users\Wanlun Xue\Documents\Github\2020-sep-exercises-uuuueuphoria\src\Work Schedule\ScheduleStarterKit\obj\Debug\ScheduleStarterKit.pdb
+C:\Users\Wanlun Xue\Documents\Github\2020-sep-exercises-uuuueuphoria\src\Work Schedule\ScheduleStarterKit\obj\Debug\ScheduleStarterKit.csprojAssemblyReference.cache
